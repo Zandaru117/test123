@@ -1,0 +1,3 @@
+C:/C++/practice/test2005/test123/build/CMakeFiles/12345.dir
+C:/C++/practice/test2005/test123/build/CMakeFiles/edit_cache.dir
+C:/C++/practice/test2005/test123/build/CMakeFiles/rebuild_cache.dir
